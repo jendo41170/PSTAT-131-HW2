@@ -2,7 +2,7 @@
 title: "PSTAT 131 HW2"
 author: "Jenny Do (5669841)"
 date: "`r format(Sys.Date(), '%B %d, %Y')`"
-output: html_document
+output: pdf_document
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE,
